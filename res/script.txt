@@ -1,0 +1,7 @@
+create layer bi.png
+create layer Koala2.ppm
+filter blur 2
+filter sepia 1
+save koala.png
+visibility false 2
+save bi.jpg

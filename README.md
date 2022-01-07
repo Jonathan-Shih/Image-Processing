@@ -1,13 +1,5 @@
 Image Processing
 
-This program is fully completed and meets all required functionality.
-
-The previous code was left unmodified but for the addition of a few methods. 
-
-The SimpleLayerManipulator received new methods to copy lists, read files, and save all layers. 
-
-ImageUtil now supports conversion of an image to a BufferedImage. 
-
 ## Use
 
 This version of the program includes a JAR file allowing the program to be run in 2 different modes. The JAR takes 3 possible command line arguments:

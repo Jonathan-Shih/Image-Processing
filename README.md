@@ -1,4 +1,4 @@
-# Assignment 7 - Image Processing
+Image Processing
 
 This program is fully completed and meets all required functionality.
 
